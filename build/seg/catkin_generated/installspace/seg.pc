@@ -1,0 +1,8 @@
+prefix=/media/jpark/Elements/Research/Thesis1/voxel_grid/install
+
+Name: seg
+Description: Description of seg
+Version: 0.0.0
+Cflags: 
+Libs: -L/media/jpark/Elements/Research/Thesis1/voxel_grid/install/lib 
+Requires: 

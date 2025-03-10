@@ -1,0 +1,7 @@
+<launch>
+
+
+  <node pkg="seg" type="cluster_extraction" name="cluster_extraction">
+  </node>
+
+</launch>

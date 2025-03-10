@@ -1,0 +1,2 @@
+perception_pcl/pcl_conversions:perception_pcl/pcl_ros:perception_pcl/perception_pcl:seg
+-DCATKIN_DEVEL_PREFIX=/media/jpark/Elements/Research/Thesis1/voxel_grid/devel -DCMAKE_INSTALL_PREFIX=/media/jpark/Elements/Research/Thesis1/voxel_grid/install -G Unix Makefiles
