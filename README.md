@@ -18,3 +18,4 @@ Usage:
     Set /base_link as the Fixed Frame, check out the published PointCloud2 topics
 
 */
+![voxel_grid](https://github.com/user-attachments/assets/ad343f65-6c06-42fa-a4f8-44f6eb589074)
